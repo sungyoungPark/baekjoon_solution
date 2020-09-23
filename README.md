@@ -1,2 +1,2 @@
 # baekjoon_solution
-백준 문제 
+백준 문제 풀이
