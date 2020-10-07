@@ -1,5 +1,7 @@
 import Foundation
 
+//dp와 dfs를 이용하는 것이 중요
+
 let n = Int(readLine()!)!
 
 var graph = [[Int]](repeating: [Int](repeating: 0, count: n), count: n)
