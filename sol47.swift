@@ -60,7 +60,5 @@ for i in 0...m-1{
     
 }
 
-
-
 print(result.map{ String($0)}.joined(separator: " "))
 
